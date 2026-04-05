@@ -188,7 +188,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-**dhanish0711**
+**Dhanish Ladwani**
 
 - GitHub: [@dhanish0711](https://github.com/dhanish0711)
 
