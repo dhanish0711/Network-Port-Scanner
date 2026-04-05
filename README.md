@@ -56,7 +56,7 @@ git clone https://github.com/dhanish0711/Network-Port-Scanner.git
 cd Network-Port-Scanner
 
 # Run the application
-python portscanergui.py
+python portscannergui.py
 ```
 
 ---
